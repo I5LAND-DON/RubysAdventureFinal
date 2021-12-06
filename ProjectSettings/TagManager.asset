@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - Teleporter
+  - Second Teleporter
+  - blue portal
+  - orange portal
+  - SpeedBoost
+  - RubyController
   layers:
   - Default
   - TransparentFX
@@ -13,13 +18,13 @@ TagManager:
   - Water
   - UI
   - 
-  - NPC
+  - 
   - Character
   - Projectile
   - Confiner
   - 
   - Environment
-  - 
+  - NPC
   - 
   - 
   - 
